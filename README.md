@@ -1,6 +1,6 @@
 # Mishra-Shreya-CMP
 
-preview:
-https://mishra-shreya.github.io/Mishra-Shreya-CMP
+Live Preview:
+https://mishra-shreya.github.io/College-Management-Portal/
 
 A college management portal
